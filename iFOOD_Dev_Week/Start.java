@@ -6,6 +6,6 @@ package iFOOD_Dev_Week;
 public class Start {
 
     public static void main(String[] args) {
-        System.out.println("Olá");
+        System.out.println("Ol");
     }
 }
